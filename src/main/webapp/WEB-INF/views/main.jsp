@@ -5,7 +5,7 @@
     <title>OIT trainee</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="elan">
-    <link href="/resources/bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="/oit/resources/bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -78,8 +78,8 @@
 		</section>
 		<div>Get <a href="protected">protected</a> resource for admin.</div>
 		<div>Get <a href="confidential">confidential</a> resource for superadmin.</div>
-    	  	<script src="/resources/bower_components/jquery/dist/jquery.min.js"></script>
-    	<script src="/resources/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    	  	<script src="/oit/resources/bower_components/jquery/dist/jquery.min.js"></script>
+    	<script src="/oit/resources/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     	
     	
 	</body>
